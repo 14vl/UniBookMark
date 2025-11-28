@@ -77,7 +77,7 @@ public class Main{
                     if (toUpdate instanceof Book.DetailedBookmark) {                                      //Checks if DetailedBookmark to update note.
                         System.out.print("Enter new note (leave blank to keep current): ");
                         String newNote = cin.nextLine();
-                        System.out.println("\nBookmark for " +newTitle+ " is updated!");
+                        System.out.println("\nBookmark for \"" +newTitle+ "\" is updated!");
                         if (!newNote.isEmpty())
                             ((Book.DetailedBookmark) toUpdate).setNote(newNote);
                     }
@@ -111,4 +111,5 @@ public class Main{
             }
         }
     }
+
 }
