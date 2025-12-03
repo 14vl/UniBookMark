@@ -29,7 +29,7 @@ This project demonstrates key <b>Object-Oriented Programming (OOP)</b> concepts 
 </p>
 
 <p style="color:#BA68C8;">
-With UniBookmark, users can:  
+With UniBookmark, users can:<br/>
 📚 Add bookmarks for <b>Manga</b>, <b>Novel</b>, or <b>Textbook</b><br>
 🌸 View a neatly listed collection of bookmarked readings<br>
 🖊️ Update reading progress or creator details<br>
@@ -179,3 +179,4 @@ Subject: Mechanics
 
 <h2 style="color:#F48FB1;">🍀 Acknowledgment</h2>
 <p style="color:#BA68C8;">We would like to express our gratitude to our most coquette soft girly instructor <b>Ma’am Fatima Marie P. Agdon. </b>.We would like to extend our gratitude to our pets, Cotton Buds, Harris, Mingming, Mongmong, and Rado for their support throughout this project.</p>
+
